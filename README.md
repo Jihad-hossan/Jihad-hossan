@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋, My name is Md Jihad Hossan
+#### I am a newbie in theme development
+![I am a newbie in theme development](https://avatars.githubusercontent.com/u/83749909?v=4)
 
-<!--
-**Jihad-hossan/Jihad-hossan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a kid in Web development. For being a full stack web developer I have learn some languages like HTML, CSS, Basic JS, Git and Github. Now I am a running student of Shikhbe Sobai full stack course.
 
-Here are some ideas to get you started:
+Skills:  JS(basic) / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
