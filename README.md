@@ -4,7 +4,7 @@
 
 I am an expert in Elementor, Elementor Pro, Divi Builder, WPBackery, and BeBuilder. I have taken a course for 6 months on "Shikhbe Sobai". Then I have been working with RRdevs for 1.5 years.
 
-Skills: HTML / CSS / SASS / Bootstrap / JS, jQuery / PHP / WordPress Customization
+Skills: HTML / CSS / SASS / Bootstrap / JS, jQuery / PHP / WordPress Customization / Custom Theme Development
 
 - 🔭 I’m currently working on Front-end and WordPress Development 
 - 🌱 I’m currently learning WordPress theme development  
