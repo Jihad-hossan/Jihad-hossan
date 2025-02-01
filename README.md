@@ -1,14 +1,14 @@
 ### Hi there 👋, My name is Md Jihad Hossan
-#### I am a Front-end and WordPress Developer.
-![I am a Front-end and WordPress Developer.](https://jihaddev.com/portfolio/wp-content/uploads/2022/08/rsz_blue_modern_company_profile.png)
+#### I am a WordPress Developer.
+![I am a WordPress Developer.](https://jihaddev.com/portfolio/wp-content/uploads/2022/08/rsz_blue_modern_company_profile.png)
 
-I am an expert in Elementor, Elementor Pro, Divi Builder, WPBackery, and BeBuilder. I have taken a course for 6 months on "Shikhbe Sobai". Then I have been working with RRdevs for 1.5 years.
+I am an expert in Elementor, Elementor Pro, Divi Builder, WPBackery, and BeBuilder. I have taken a course for 6 months on "Shikhbe Sobai". Then I worked with RRdevs for 4 years. Now I am working on HandyWebLab.
 
 Skills: HTML / CSS / SASS / Bootstrap / JS, jQuery / PHP / WordPress Customization / Custom Theme Development
 
-- 🔭 I’m currently working on Front-end and WordPress Development 
-- 🌱 I’m currently learning WordPress theme development  
-- 🤔 I’m looking for help with Professional theme developer  
+- 🔭 I’m currently working on WordPress Development 
+- 🌱 I’m currently learning WordPress plugin development  
+- 🤔 I’m looking for help with a Professional Plugin developer  
 - 💬 Ask me about HTML, CSS, JS and WordPress 
 - 📫 How to reach me: jihad.marine@gmail.com 
 
